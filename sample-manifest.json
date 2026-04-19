@@ -1,12 +1,12 @@
 {
-  "export_job_id": "445a7a3a-7c0e-4e2f-a0a4-4bdc7bcb4cee",
+  "export_job_id": "c13ff5bd-78c3-45bf-9586-58d09001762c",
   "id_short": 508611,
-  "published_at": "2026-04-12T19:45:45Z",
+  "published_at": "2026-04-19T07:30:50Z",
   "repo_name": "tech-ready-restaurants-in-the-raleigh-cary-metro-area-nc-us-sample-508611",
   "sample_asset_name": "beamstation_508611_restaurants-us-raleighcarync_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/508611/beamstation_508611_restaurants-us-raleighcarync_SAMPLE_DIST.csv",
   "sample_records": 2,
-  "sample_sha256": "57fff410a24b358bcb030d9b926d6c735ecfce63c8d6674d7b27f310f25b8ac2",
-  "sample_size_bytes": 23344,
-  "total_records": 24
+  "sample_sha256": "a93133cbbfcf92f83932ca819d329b265b68846aa84ee99f131ebf763794f6b5",
+  "sample_size_bytes": 23376,
+  "total_records": 21
 }
